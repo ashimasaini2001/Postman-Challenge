@@ -674,5 +674,5 @@
 |  674 | Adinath Raut | adinathraut8080@gmail.com | [Adinath Raut](https://www.linkedin.com/in/adinathraut/) | [Certificate Link](https://api.badgr.io/public/assertions/qju68VpvQhyf_f3ns-XQ0Q?identity__email=adinathraut8080%40gmail.com) | Completed the Postman API certification. |
 |  675 | Abhinav Arora | abhinavarora310@gmail.com | www.linkedin.com/in/abhinav-arora-88b5a0207 | [Certification Link](https://badgr.com/public/assertions/dBQpVdTPTkq_fV3bfsTMfA?identity__email=abhinavarora310@gmail.com) | good           | -                                                                                                          |
 |  676 | Sanskar Singh | sanskar.singh.eee21@iitbhu.ac.in | [Sanskar Singh](https://www.linkedin.com/in/sanskar-singh-7a6b2b241/) | [Certificate Link](https://api.badgr.io/public/assertions/pe634Y30SL6v37xuzXAghQ?identity__email=sanskar.singh.eee21%40itbhu.ac.in) | Great Learning Experience!! |
-
+|  677 | Ashima Saini | ashimasaini010@gmail.com | [Ashima Saini](https://www.linkedin.com/in/ashima-saini-b5a1b2232/) | [Certificate Link](https://api.badgr.io/public/assertions/VLXrAGHlS-GLP3H0CdmTTg?identity__email=ashimasaini010%40gmail.com) | Completed the Postman API certification |
 
